@@ -1,0 +1,7 @@
+.vscode/
+kerasCrnnEnv/
+__pycache__/
+keras_crnn.code-workspace
+training_log.txt
+
+
